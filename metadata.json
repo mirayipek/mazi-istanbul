@@ -1,0 +1,8 @@
+{
+  "name": "Mazi İstanbul",
+  "description": "Asırlık lezzet durakları ve tarihi mekanları keşfedin.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
